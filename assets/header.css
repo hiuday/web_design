@@ -1,0 +1,33 @@
+.header{
+    background-image: url("https://learn-html-css.my.canva.site/images/6f8830929301eefca5368877cf0aa28a.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    
+    height: 900px;
+}
+.header .header-title{
+    color: #FFFFFF;
+    margin-left: 200px;
+    
+}
+.header .header-title h1{
+    padding-top: 80px;
+    font-weight: 1000;
+    text-transform: uppercase;
+    
+}
+.header .header-title p{
+    margin-top: 100px;
+    font-family: YACkoGNq-XY-0;
+    font-size: 70px;
+    font-weight: 900;
+}
+.header .header-btn button{
+    color: #FFFFFF;
+    background-color: #DD9D4C;
+    padding: 20px 50px;
+    margin-top: 80px;
+    font-family: YAFdJj8NdaU-0;
+    font-weight: 700;
+}
